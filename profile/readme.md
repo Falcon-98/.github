@@ -1,9 +1,9 @@
 <center>
 
 # Hey There 👋, We are Falcon 98
-
-<img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/>
-
+<center>
+<img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/> 
+</center>
 </center>
 
 Welcome to Falcon 98 Organization! 🚀
