@@ -17,6 +17,6 @@ If you have general questions or need assistance, feel free to reach out via:
 
 ## Code of Conduct
 
-Please review and adhere to our [Code of Conduct](link-to-your-code-of-conduct) to ensure a positive and inclusive community environment.
+Please review and adhere to our [Code of Conduct](profile/link-to-code-of-conduct.md) to ensure a positive and inclusive community environment.
 
 Thank you for helping make Falcon 98 better! 🙌
