@@ -2,11 +2,10 @@
 	
 # Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, We are Falcon 98 🦅
 	
-<img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/> 
-
 </center>
 
 <p align="center"> 
+	<img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/> 
 	<img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="https://www.twitter.com/falcon98" />
 	<img src="https://img.shields.io/twitter/follow/Falcon-98?label=Follow" alt=""></a>
 	<img src="https://img.shields.io/github/followers/Falcon-98?label=Follow&style=social" alt="Github" />
