@@ -1,6 +1,6 @@
 <center>
 
-# Hey There 👋, We are Falcon 98
+# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, We are Falcon 98
 <center>
 <img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/> 
 </center>
