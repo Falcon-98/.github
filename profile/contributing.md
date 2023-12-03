@@ -8,9 +8,9 @@ We welcome contributions from the community to help us grow and improve. Before 
 
 There are several ways you can contribute to Falcon 98:
 
-1. **Bug Reports:** If you find a bug or issue, please report it using our [Issue Tracker](link-to-issue-tracker).
+1. **Bug Reports:** If you find a bug or issue, please report it using our [Issue Tracker](profile/link-to-issue-tracker.md).
 
-2. **Feature Requests:** Have a feature in mind that you'd like to see? Share your ideas with us on the [Issue Tracker](link-to-issue-tracker).
+2. **Feature Requests:** Have a feature in mind that you'd like to see? Share your ideas with us on the [Issue Tracker](profile/link-to-issue-tracker.md).
 
 3. **Code Contributions:** If you're a developer, feel free to submit pull requests for bug fixes, new features, or improvements. Follow the guidelines below for a smooth contribution process.
 
@@ -30,7 +30,7 @@ There are several ways you can contribute to Falcon 98:
 
 ## Issue Reporting Guidelines
 
-1. Before creating a new issue, check the [Issue Tracker](link-to-issue-tracker) to see if the issue has already been reported.
+1. Before creating a new issue, check the [Issue Tracker](profile/link-to-issue-tracker.md) to see if the issue has already been reported.
 
 2. Clearly describe the issue, including steps to reproduce if applicable.
 
