@@ -1,9 +1,10 @@
 <center>
-  # Hey There 👋, We are Falcon 98 Organization
+
+# Hey There 👋, We are Falcon 98 Organization
+
+<img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/>
+
 </center>
-
-
-![Falcon 98 Logo](profile/logo.png)
 
 Welcome to Falcon 98 Organization! 🚀
 
@@ -38,6 +39,8 @@ We welcome contributions from the community! If you're interested in joining our
 ## Contact
 
 - **Email**: [inbox.falcon98@gmail.com](mailto:inbox.falcon98@gmail.com;inbox.ashen@gmail.com)
+- **Mobile**: [Your Mobile Number]
+
 - **Twitter**: [@Falcon98Org](https://twitter.com/Falcon98Org)
 - **Website**: [www.falcon98.org](https://www.falcon98.org)
 
@@ -50,4 +53,3 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 We would like to express our gratitude to the open-source community and our supporters who make Falcon 98 possible.
 
 Feel free to reach out if you have any questions or if you're interested in collaborating. Let's soar to new heights together! 🌐🚀
-
