@@ -1,6 +1,6 @@
 <center>
 
-# Hey There 👋, We are Falcon 98 Organization
+# Hey There 👋, We are Falcon 98
 
 <img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/>
 
@@ -39,8 +39,7 @@ We welcome contributions from the community! If you're interested in joining our
 ## Contact
 
 - **Email**: [inbox.falcon98@gmail.com](mailto:inbox.falcon98@gmail.com;inbox.ashen@gmail.com)
-- **Mobile**: [Your Mobile Number]
-
+- **Mobile**: [+94 78 446 4128](tel:+94784464128)
 - **Twitter**: [@Falcon98Org](https://twitter.com/Falcon98Org)
 - **Website**: [www.falcon98.org](https://www.falcon98.org)
 
