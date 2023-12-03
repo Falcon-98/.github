@@ -42,7 +42,7 @@ There are several ways you can contribute to Falcon 98:
 
 1. Be respectful and considerate of others.
 
-2. Follow the [code of conduct](link-to-code-of-conduct).
+2. Follow the [code of conduct](profile/link-to-code-of-conduct.md).
 
 3. Help others by responding to questions and participating in discussions.
 
