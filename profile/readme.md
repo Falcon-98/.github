@@ -34,7 +34,7 @@ Meet the brilliant minds behind Falcon 98:
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in joining our projects or have ideas to share, please check out our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you're interested in joining our projects or have ideas to share, please check out our [Contributing Guidelines](profile/contributing.md).
 
 ## Contact
 
