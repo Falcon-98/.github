@@ -1,6 +1,6 @@
 <center>
 
-# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, We are Falcon 98
+# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, We are Falcon 98 🦅
 <center>
 <img src="profile/logo.png" alt="Falcon 98 Logo" width="200"/> 
 </center>
@@ -8,11 +8,11 @@
 
 Welcome to Falcon 98 Organization! 🚀
 
-## About Us
+## About Us 🤓
 
 Falcon 98 is a dynamic and innovative organization dedicated to pushing the boundaries of technology and fostering a community of passionate individuals. Our mission is to create cutting-edge solutions and inspire the next generation of innovators.
 
-## Vision
+## Vision 👀
 
 To be a leading force in technological advancements, driving positive change and empowering individuals to reach new heights.
 
@@ -26,28 +26,28 @@ Description of Project 1 and its significance.
 
 Description of Project 2 and its significance.
 
-## Team
+## Team🫂
 
 Meet the brilliant minds behind Falcon 98:
 
 - **Ashen Wijesingha** - CEO & Founder
 
-## Contributing
+## Contributing 👥
 
 We welcome contributions from the community! If you're interested in joining our projects or have ideas to share, please check out our [Contributing Guidelines](profile/contributing.md).
 
-## Contact
+## Contact ☎️
 
 - **Email**: [inbox.falcon98@gmail.com](mailto:inbox.falcon98@gmail.com;inbox.ashen@gmail.com)
 - **Mobile**: [+94 78 446 4128](tel:+94784464128)
 - **Twitter**: [@Falcon98Org](https://twitter.com/Falcon98Org)
 - **Website**: [www.falcon98.org](https://www.falcon98.org)
 
-## License
+## License 📃
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
+## Acknowledgments🎯
 
 We would like to express our gratitude to the open-source community and our supporters who make Falcon 98 possible.
 
