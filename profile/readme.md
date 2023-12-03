@@ -1,6 +1,6 @@
 # Falcon 98 Organization
 
-![Falcon 98 Logo](Falcon 98 - logo Re Design.png)
+![Falcon 98 Logo](logo.png)
 
 Welcome to Falcon 98 Organization! 🚀
 
