@@ -31,15 +31,15 @@ To be a leading force in technological advancements, driving positive change and
 
 **Key Features**:
 
-**Text-Based Navigation**: Users can seamlessly traverse web pages using text commands, providing a streamlined alternative to traditional point-and-click navigation.
+- **Text-Based Navigation**: Users can seamlessly traverse web pages using text commands, providing a streamlined alternative to traditional point-and-click navigation.
 
-**Intuitive Commands**: Terminal by Falcon 98 introduces a set of user-friendly commands that enable quick and precise control over web content. From opening links to searching for specific content, users can accomplish tasks efficiently.
+- **Intuitive Commands**: Terminal by Falcon 98 introduces a set of user-friendly commands that enable quick and precise control over web content. From opening links to searching for specific content, users can accomplish tasks efficiently.
 
-**Customizable Interface**: Tailor the terminal to suit individual preferences with customizable themes, font sizes, and color schemes. Personalize the user experience for a comfortable and visually appealing interaction.
+- **Customizable Interface**: Tailor the terminal to suit individual preferences with customizable themes, font sizes, and color schemes. Personalize the user experience for a comfortable and visually appealing interaction.
 
-**Efficient Workflow**: By eliminating the need for mouse-based interactions, Terminal enhances workflow efficiency, making it an ideal tool for users who prefer keyboard-centric navigation.
+- **Efficient Workflow**: By eliminating the need for mouse-based interactions, Terminal enhances workflow efficiency, making it an ideal tool for users who prefer keyboard-centric navigation.
 
-**Developer-Friendly**: Terminal is designed to cater to developers and power users, offering features like integration with web development tools, access to console logs, and the ability to execute JavaScript commands directly from the terminal.
+- **Developer-Friendly**: Terminal is designed to cater to developers and power users, offering features like integration with web development tools, access to console logs, and the ability to execute JavaScript commands directly from the terminal.
 
 ### Project 2: [Project Name]
 
