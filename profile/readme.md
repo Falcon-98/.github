@@ -23,9 +23,23 @@ To be a leading force in technological advancements, driving positive change and
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: [Terminal](https://terminal.falcon98.com)
 
-Description of Project 1 and its significance.
+- Terminal by Falcon 98 is an innovative project that introduces a unique and interactive terminal interface for navigating web pages. Developed by Falcon 98, this project transforms the traditional web browsing experience by integrating a command-line-style interface directly into the browser.
+
+- At its core, Terminal by Falcon 98 operates as a virtual terminal, allowing users to interact with the web using text-based commands. This groundbreaking approach empowers users to navigate websites, access content, and perform actions through a series of intuitive input prompts. With a focus on efficiency and simplicity, Terminal reimagines the way users interact with the web, bridging the gap between traditional command-line interfaces and modern web browsers.
+
+**Key Features**:
+
+**Text-Based Navigation**: Users can seamlessly traverse web pages using text commands, providing a streamlined alternative to traditional point-and-click navigation.
+
+**Intuitive Commands**: Terminal by Falcon 98 introduces a set of user-friendly commands that enable quick and precise control over web content. From opening links to searching for specific content, users can accomplish tasks efficiently.
+
+**Customizable Interface**: Tailor the terminal to suit individual preferences with customizable themes, font sizes, and color schemes. Personalize the user experience for a comfortable and visually appealing interaction.
+
+**Efficient Workflow**: By eliminating the need for mouse-based interactions, Terminal enhances workflow efficiency, making it an ideal tool for users who prefer keyboard-centric navigation.
+
+**Developer-Friendly**: Terminal is designed to cater to developers and power users, offering features like integration with web development tools, access to console logs, and the ability to execute JavaScript commands directly from the terminal.
 
 ### Project 2: [Project Name]
 
