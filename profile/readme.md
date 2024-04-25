@@ -60,7 +60,7 @@ We welcome contributions from the community! If you're interested in joining our
 - **Email**: [inbox.falcon98@gmail.com](mailto:inbox.falcon98@gmail.com;inbox.ashen@gmail.com)
 - **Mobile**: [+94 78 446 4128](tel:+94784464128)
 - **Twitter**: [@Falcon98Org](https://twitter.com/Falcon98Org)
-- **Website**: [www.falcon98.org](https://www.falcon98.org)
+- **Website**: [www.falcon98.com](https://www.falcon98.com)
 
 ## License 📃
 
